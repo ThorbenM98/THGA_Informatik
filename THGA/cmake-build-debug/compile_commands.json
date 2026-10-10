@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Startklar/CLionProjects/THGA/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -fdiagnostics-color=always -o CMakeFiles\\THGA.dir\\library.c.obj -c C:\\Users\\Startklar\\CLionProjects\\THGA\\library.c",
+  "file": "C:/Users/Startklar/CLionProjects/THGA/library.c",
+  "output": "C:/Users/Startklar/CLionProjects/THGA/cmake-build-debug/CMakeFiles/THGA.dir/library.c.obj"
+}
+]

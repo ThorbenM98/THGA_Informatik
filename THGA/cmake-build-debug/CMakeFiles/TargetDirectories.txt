@@ -1,0 +1,3 @@
+C:/Users/Startklar/CLionProjects/THGA/cmake-build-debug/CMakeFiles/THGA.dir
+C:/Users/Startklar/CLionProjects/THGA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Startklar/CLionProjects/THGA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
